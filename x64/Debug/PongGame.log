@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\enesi\source\repos\PongGame\PongGame\Main.cpp(22,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\enesi\source\repos\PongGame\PongGame\Main.cpp(22,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\enesi\source\repos\PongGame\PongGame\Main.cpp(22,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\enesi\source\repos\PongGame\PongGame\Main.cpp(51,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\enesi\source\repos\PongGame\PongGame\Main.cpp(52,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\enesi\source\repos\PongGame\PongGame\Main.cpp(81,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\enesi\source\repos\PongGame\PongGame\Main.cpp(179,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\enesi\source\repos\PongGame\PongGame\Main.cpp(190,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\enesi\source\repos\PongGame\PongGame\Main.cpp(196,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  PongGame.vcxproj -> C:\Users\enesi\source\repos\PongGame\x64\Debug\PongGame.exe
